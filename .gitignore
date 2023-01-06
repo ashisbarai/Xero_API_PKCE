@@ -1,0 +1,15 @@
+
+obj/Xero_API_PKCE.csproj.nuget.g.targets
+obj/Xero_API_PKCE.csproj.nuget.g.props
+obj/Xero_API_PKCE.csproj.nuget.dgspec.json
+obj/rider.project.restore.info
+obj/project.packagespec.json
+obj/project.nuget.cache
+obj/project.assets.json
+obj/Debug/net7.0/Xero_API_PKCE.GlobalUsings.g.cs
+obj/Debug/net7.0/Xero_API_PKCE.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/Xero_API_PKCE.csproj.AssemblyReference.cache
+obj/Debug/net7.0/Xero_API_PKCE.assets.cache
+obj/Debug/net7.0/Xero_API_PKCE.AssemblyInfoInputs.cache
+obj/Debug/net7.0/Xero_API_PKCE.AssemblyInfo.cs
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs

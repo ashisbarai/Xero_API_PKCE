@@ -10,7 +10,7 @@ using Xero_API_PKCE.Dtos;
 using Xero_API_PKCE.WebServers;
 
 string loginUrl = "https://login.xero.com/identity/connect/authorize";
-var clientId = "6FF96F79DACD458190B70DA9AD0ED369";
+var clientId = "your-client-id";
 var scopes = Uri.EscapeUriString("offline_access openid profile email");
 var redirectUri = "http://localhost:8800/callback";
 var state = "123";
